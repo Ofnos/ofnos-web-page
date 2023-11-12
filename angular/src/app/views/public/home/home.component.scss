@@ -1,0 +1,33 @@
+$space-color: rgba(17, 26, 34, 1);
+
+.space-background {
+  background: $space-color;
+  width: 100vw;
+  height: 100vh;
+}
+
+.dot1 {
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 190px 150px rgb(42 34 92);
+}
+
+.dot1-inner {
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 100px 90px rgb(172 159 255);
+}
+
+.dot2 {
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 90px 50px rgb(42 34 92);
+  animation: myfirst 5s linear infinite;
+  -webkit-animation: myfirst 5s linear infinite;
+}
+
+.dot2-inner {
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 50px 40px rgba(43, 38, 73, 0.4);
+}

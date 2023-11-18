@@ -37,6 +37,13 @@ body {
   color: rgb(115, 136, 169)
 }
 
+.text-gradient {
+  background: linear-gradient(90deg, rgb(123, 68, 238) 0%, rgb(208, 176, 20) 35%, rgb(156, 60, 57) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .border-primary {
   border-color: $primary-color;
 }

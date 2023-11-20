@@ -10,7 +10,7 @@ export class HomeComponent implements AfterViewInit {
   @ViewChild('hero', { read: ElementRef }) heroElement: ElementRef | undefined;
 
   ngAfterViewInit(): void {
-    window.scroll(0, 1)
+    window.scroll(0, 2)
   }
 
   @HostListener('window:scroll', ['$event'])

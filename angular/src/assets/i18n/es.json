@@ -1,0 +1,55 @@
+{
+  "header": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "clients": "Clientes",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": {
+      "light": "Expertos en",
+      "bold": "Idear, Crear e ",
+      "color": "Innovar"
+    },
+    "subtitle": "En Ofnos, desarrollamos software personalizado con la mejor calidad enfocado en satisfacer todas las necesidades de nuestros clientes",
+    "contact-us": "Contáctanos"
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Nuestro trabajo",
+    "description": "Con experiencia en múltiples áreas, ofrecemos una gran variedad de soluciones para satisfacer cualquier necesidad tecnológica",
+    "custom-software" : {
+      "title": "Software a la medida",
+      "description": "Creamos soluciones específicas a cualquier tipo de necesidad"
+    },
+    "built-solutions": {
+      "title": "Soluciones listas",
+      "description": "Contamos con diversas aplicaciones listas para ser utilizadas"
+    },
+    "processes-automation": {
+      "title": "Automatización de procesos",
+      "description": "Ideamos formas de automatizar tareas en cualquier flujo de trabajo"
+    },
+    "support": {
+      "title": "Soporte",
+      "description": "Ofrecemos servicios de soporte relacionados al área de IT"
+    }
+  },
+  "clients": {
+    "title": "Clientes",
+    "subtitle": "Casos de éxito",
+    "description": "Creamos grandes productos para todo tipo de empresas. Ellos ya confían en nosotros"
+  },
+  "footer": {
+    "contact": {
+      "title": "Contacto",
+      "email": "Correo",
+      "phone": "Teléfono"
+    },
+    "office": {
+      "title": "Oficinas",
+      "book-appointment": "Agendar una cita"
+    }
+  }
+  
+}

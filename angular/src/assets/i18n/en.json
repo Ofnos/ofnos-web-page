@@ -1,0 +1,54 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "clients": "Clients",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": {
+      "light": "Experts in",
+      "bold": "Devising, Creating and ",
+      "color": "Innovating"
+    },
+    "subtitle": "At Ofnos, we develop personalized software with the best quality focused on satisfying all the needs of our customers",
+    "contact-us": "Contact us"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Our work",
+    "description": "With experience in multiple fields, we offer a wide range of solutions to satisfy any technological need",
+    "custom-software": {
+      "title": "Custom-made software",
+      "description": "Creation of specific solutions to any type of necessity"
+    },
+    "built-solutions": {
+      "title": "Built solutions",
+      "description": "Buy one of our various ready-to-use applications"
+    },
+    "processes-automation": {
+      "title": "Processes automation",
+      "description": "Invention of innovative ways to automate tasks in any workflow"
+    },
+    "support": {
+      "title": "Soporte",
+      "description": "IT support services to help improve your business"
+    }
+  },
+  "clients": {
+    "title": "Clients",
+    "subtitle": "Success stories",
+    "description": "We create great products for all types of companies. They already trust us"
+  },
+  "footer": {
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "phone": "Phone number"
+    },
+    "office": {
+      "title": "Offices",
+      "book-appointment": "Book an appointment"
+    }
+  }
+}
